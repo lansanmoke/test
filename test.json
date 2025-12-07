@@ -1,0 +1,12 @@
+{
+  "show_ads": true,
+  "tmdb_api_key": "033beb9797664213f40589212df74c3b",
+  "ad_units": {
+    "interstitial": "490325acc8898df7",
+    "mrec": "fd0cae2366b36448",
+    "banner": "9ddbe91e8988fccf",
+    "app_open": "8dfb691c2722b3c3",
+    "rewarded": "android_rewarded_id",
+    "native": "android_native_id"
+  }
+}
