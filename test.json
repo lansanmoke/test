@@ -1,5 +1,5 @@
 {
-  "show_ads": true,
+  "show_ads": false,
   "tmdb_api_key": "033beb9797664213f40589212df74c3b",
   "ad_units": {
     "interstitial": "490325acc8898df7",
