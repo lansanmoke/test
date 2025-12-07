@@ -1,6 +1,6 @@
 {
   "show_ads": true,
-  "tmdb_api_key": "033beb9797664213f40589212df74c3b",
+  "tmdb_api_key": "033beb9797664213f40589212df74c3b00",
   "ad_units": {
     "interstitial": "490325acc8898df7",
     "mrec": "fd0cae2366b36448",
